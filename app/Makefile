@@ -29,7 +29,7 @@ include $(BOLOS_SDK)/Makefile.defines
 APPNAME = "Crypto.com Chain"
 APPVERSION_M=2
 APPVERSION_N=16
-APPVERSION_P=2
+APPVERSION_P=3
 
 APPPATH = "44'/394'"
 APP_LOAD_PARAMS = --appFlags 0x200 --delete $(COMMON_LOAD_PARAMS) --path $(APPPATH)
