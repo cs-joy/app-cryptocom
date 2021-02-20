@@ -1,6 +1,6 @@
 /*******************************************************************************
 *   (c) 2018 Zondax GmbH
-*   (c) 2020 Foris Limited ("Crypto.com")
+*   (c) 2021 CRO Protocol Labs ("Crypto.org")
 *
 *  Licensed under the Apache License, Version 2.0 (the "License");
 *  you may not use this file except in compliance with the License.

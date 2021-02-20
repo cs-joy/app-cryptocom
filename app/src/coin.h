@@ -1,6 +1,6 @@
 /*******************************************************************************
 *  (c) 2019 Zondax GmbH
-*  (c) 2020 Foris Limited ("Crypto.com")
+*  (c) 2021 CRO Protocol Labs ("Crypto.org")
 *
 *  Licensed under the Apache License, Version 2.0 (the "License");
 *  you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@ typedef enum {
 #define VIEW_ADDRESS_OFFSET_SECP256K1       PK_LEN_SECP256K1
 #define VIEW_ADDRESS_LAST_PAGE_DEFAULT      0
 
-#define MENU_MAIN_APP_LINE1                "Crypto.Com"
+#define MENU_MAIN_APP_LINE1                "Crypto.org"
 #define MENU_MAIN_APP_LINE2                "ready"
 #define APPVERSION_LINE1                   "Version:"
 #define APPVERSION_LINE2                   ("v" APPVERSION)
