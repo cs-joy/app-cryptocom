@@ -88,3 +88,5 @@ app/src/glyphs.c
 
 app/src/glyphs.h
 /build
+
+.DS_Store
