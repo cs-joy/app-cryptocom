@@ -48,7 +48,7 @@ typedef enum {
 #define APPVERSION_LINE2                   ("v" APPVERSION)
 
 #define CRYPTO_BLOB_SKIP_BYTES              0
-#define COIN_DEFAULT_CHAINID                "testnet-croeseid-1"
+#define COIN_DEFAULT_CHAINID                "crypto-org-chain-mainnet-1"
 
 // In non-expert mode, the app will convert from basecro to CRO
 #define COIN_DEFAULT_DENOM_BASE             "basecro"
