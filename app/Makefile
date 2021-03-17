@@ -179,4 +179,4 @@ delete:
 	python -m ledgerblue.deleteApp $(COMMON_DELETE_PARAMS)
 
 listvariants:
-	@echo VARIANTS COIN cro
+	@echo VARIANTS COIN cro_org
