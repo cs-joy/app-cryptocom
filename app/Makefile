@@ -1,6 +1,6 @@
 #*******************************************************************************
 #   Ledger App
-#   (c) 2020 Foris Limited ("Crypto.com")
+#   (c) 2021 CRO Protocol Labs ("Crypto.org")
 #   (c) 2018-2020 Zondax GmbH
 #   (c) 2017 Ledger
 #
@@ -26,7 +26,7 @@ MY_DIR := $(dir $(lastword $(MAKEFILE_LIST)))
 include $(BOLOS_SDK)/Makefile.defines
 
 # Main app configuration
-APPNAME = "Crypto.com Chain"
+APPNAME = "Crypto.org Chain"
 APPVERSION_M=2
 APPVERSION_N=16
 APPVERSION_P=3

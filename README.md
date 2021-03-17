@@ -1,14 +1,14 @@
-# Ledger Crypto.com Chain app
+# Ledger Crypto.org Chain app
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This project contains the Crypto.com Chain app for Ledger Nano S and X.
+This project contains the Crypto.org Chain app for Ledger Nano S and X.
 
-- Ledger Nano S/X Crypto.com Chain app
+- Ledger Nano S/X Crypto.org Chain app
 - Specs / Documentation
 - C++ unit tests 
 - Zemu tests
 
-The Crypto.com Chain app will be available in [Ledger Live](https://www.ledger.com/pages/ledger-live) in development mode.
+The Crypto.org Chain app will be available in [Ledger Live](https://www.ledger.com/pages/ledger-live) in development mode.
 In the meantime, you can use the Cosmos app from Ledger Live (just make sure to pass `--coin-type=118 --account=0` flags to chain-maind
 or configure the HD path in your preferred wallet):
 
